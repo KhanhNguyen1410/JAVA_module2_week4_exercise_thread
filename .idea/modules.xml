@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/create-thread/create-thread.iml" filepath="$PROJECT_DIR$/create-thread/create-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/show-number-parity/show-number-parity.iml" filepath="$PROJECT_DIR$/show-number-parity/show-number-parity.iml" />
       <module fileurl="file://$PROJECT_DIR$/week4-thread.iml" filepath="$PROJECT_DIR$/week4-thread.iml" />
     </modules>
   </component>
